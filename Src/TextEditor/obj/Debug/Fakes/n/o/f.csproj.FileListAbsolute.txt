@@ -1,0 +1,12 @@
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\b\nunit.framework.Fakes.xml
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\b\nunit.framework.Fakes.dll
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\b\nunit.framework.Fakes.pdb
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\b\ICSharpCode.TextEditor.dll
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\b\LinqBridge.dll
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\b\Microsoft.QualityTools.Testing.Fakes.dll
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\b\nunit.framework.dll
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\b\nunit.framework.xml
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\b\ICSharpCode.TextEditor.pdb
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\o\f.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\o\nunit.framework.Fakes.dll
+\\Mac\Home\Downloads\TextEditor (1)\Src\TextEditor\obj\Debug\Fakes\n\o\nunit.framework.Fakes.pdb

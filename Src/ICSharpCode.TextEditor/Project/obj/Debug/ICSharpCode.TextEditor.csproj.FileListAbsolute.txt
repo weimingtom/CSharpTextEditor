@@ -1,0 +1,5 @@
+\\Mac\Home\Downloads\TextEditor (1)\bin\Debug\ICSharpCode.TextEditor.dll
+\\Mac\Home\Downloads\TextEditor (1)\bin\Debug\ICSharpCode.TextEditor.pdb
+\\Mac\Home\Downloads\TextEditor (1)\Src\ICSharpCode.TextEditor\Project\obj\Debug\ICSharpCode.TextEditor.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\TextEditor (1)\Src\ICSharpCode.TextEditor\Project\obj\Debug\ICSharpCode.TextEditor.dll
+\\Mac\Home\Downloads\TextEditor (1)\Src\ICSharpCode.TextEditor\Project\obj\Debug\ICSharpCode.TextEditor.pdb
